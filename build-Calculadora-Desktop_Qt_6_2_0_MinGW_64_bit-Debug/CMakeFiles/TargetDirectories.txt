@@ -1,0 +1,5 @@
+C:/Users/usuario/Desktop/QtProjects/build-Calculadora-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/CMakeFiles/Calculadora.dir
+C:/Users/usuario/Desktop/QtProjects/build-Calculadora-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/usuario/Desktop/QtProjects/build-Calculadora-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/usuario/Desktop/QtProjects/build-Calculadora-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/CMakeFiles/Calculadora_autogen_timestamp_deps.dir
+C:/Users/usuario/Desktop/QtProjects/build-Calculadora-Desktop_Qt_6_2_0_MinGW_64_bit-Debug/CMakeFiles/Calculadora_autogen.dir

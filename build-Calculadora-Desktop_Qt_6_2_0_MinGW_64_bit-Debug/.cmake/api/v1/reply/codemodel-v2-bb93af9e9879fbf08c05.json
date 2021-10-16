@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Calculadora",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Calculadora::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Calculadora-Debug-8a6774240e7e497e7290.json",
+					"name" : "Calculadora",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Calculadora_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Calculadora_autogen-Debug-3c9f0d863f20cfacd60e.json",
+					"name" : "Calculadora_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Calculadora_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Calculadora_autogen_timestamp_deps-Debug-e50e1dfa0acb26fc9be2.json",
+					"name" : "Calculadora_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/usuario/Desktop/QtProjects/build-Calculadora-Desktop_Qt_6_2_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/usuario/Desktop/QtProjects/Calculadora"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
